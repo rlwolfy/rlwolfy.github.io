@@ -1,2 +1,6 @@
 .controller.ds4{
-Background: url(base.svg);}
+Background: url(base.svg);
+   background-repeat:no-repeat;
+   background-position:100% -5%; 
+   background-size: 100%;
+   }
